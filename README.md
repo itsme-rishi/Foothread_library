@@ -2,5 +2,5 @@
 
 ## clone the repository
 ```bash 
-git clone https://github.com/itsme-rishi/F=foothread_library.git
+git clone https://github.com/itsme-rishi/foothread_library.git
 ```
